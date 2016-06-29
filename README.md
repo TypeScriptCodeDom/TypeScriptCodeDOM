@@ -15,3 +15,9 @@ As more TypeScript features possibly supported by CodeDOM may be developed in th
 
 Please report issues at https://github.com/zijianhuang/TypeScriptCodeDOM/issues
 
+# Examples
+1. Unit testing at https://github.com/zijianhuang/TypeScriptCodeDOM/tree/master/Tests/Poco2TsTests
+2. Source Code of Fonlow.Poco2Ts at https://github.com/zijianhuang/TypeScriptCodeDOM/blob/master/Fonlow.Poco2Ts/TsPodGen.cs
+3. WebApiClientGen at http://webapiclientgen.codeplex.com, including CS project WebApiClientGen and TypeScrip codes generated for jQuery and Angular 2.
+
+
